@@ -10,7 +10,7 @@
     
 </p>
 
-View live: <a href="https://techieapplication.com/">https://techieapplication.com/</a>
+View live: <a href="https://techieapplication.com/">https://techieapplication.com/</a> 
 
 
 
