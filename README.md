@@ -8,7 +8,7 @@
     User authentication
     Bootstrap CSS
     
-    View live: https://techieapplication.com/
+    View live: <a href=https://techieapplication.com/>https://techieapplication.com/</a>
     
 </p>
 
