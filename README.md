@@ -1,3 +1,5 @@
+Laravel 'Job-Search Site' with MySql connection
+
 <p>  
     
     Project includes:
