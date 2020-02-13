@@ -1,3 +1,19 @@
+<p>  
+    
+    Project includes:
+    DB connection (MySql)
+        - DB seeding and factory classes
+        - Relationships defined using Eloquent by Laravel
+    CRUD and Search functionality
+    User authentication
+    Bootstrap CSS
+    
+</p>
+
+
+
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
